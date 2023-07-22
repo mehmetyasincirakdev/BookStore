@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mehmetyasincirak\\Documents\\PatikaDev\\BookStore\\webapi\\WebApi.csproj": {}
+    "C:\\Users\\mehmetyasincirak\\Documents\\PatikaDev\\BookStore\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mehmetyasincirak\\Documents\\PatikaDev\\BookStore\\webapi\\WebApi.csproj": {
+    "C:\\Users\\mehmetyasincirak\\Documents\\PatikaDev\\BookStore\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mehmetyasincirak\\Documents\\PatikaDev\\BookStore\\webapi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\mehmetyasincirak\\Documents\\PatikaDev\\BookStore\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\mehmetyasincirak\\Documents\\PatikaDev\\BookStore\\webapi\\WebApi.csproj",
+        "projectPath": "C:\\Users\\mehmetyasincirak\\Documents\\PatikaDev\\BookStore\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mehmetyasincirak\\Documents\\PatikaDev\\BookStore\\webapi\\obj\\",
+        "outputPath": "C:\\Users\\mehmetyasincirak\\Documents\\PatikaDev\\BookStore\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mehmetyasincirak\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\mehmetyasincirak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },

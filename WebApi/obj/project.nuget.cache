@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WIWTlWOcZifwvG6wfZ3cHJAim5NKRGlWIM+VkUXZo8c1Eq35SqNxCis98ad9hQn7w7Vkln0EqEudqq23rj25Ug==",
+  "dgSpecHash": "4oU1edmISKpdbrekhfDTlIjIcf0YeGeOBJWsKhyPOR+LrDFlST8OJ9SXeSD+kjoEduU9933AsUAcG3nQtLpAHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mehmetyasincirak\\Documents\\PatikaDev\\BookStore\\webapi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\mehmetyasincirak\\Documents\\PatikaDev\\BookStore\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
     "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0-preview.6.23329.4\\microsoft.entityframeworkcore.8.0.0-preview.6.23329.4.nupkg.sha512",
